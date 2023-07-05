@@ -1,4 +1,4 @@
-name: climaax
+name: climaax_snow
 
 channels:
     - conda-forge
