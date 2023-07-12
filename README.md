@@ -1,7 +1,7 @@
 # SNOW
 Repository for collaboration on workflows for Snow hazard
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/SNOW/main?labpath=SNOW.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/SNOW/main?labpath=Workflow_notebook_template.ipynb)
 
 # How to run
 
