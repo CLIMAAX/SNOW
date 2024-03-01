@@ -7,7 +7,10 @@ Useful links:
 
 ## Risk assessment methodology
 
-The method involves visually representing the susceptible population exposed to intense snowfall and blizzards. This can be achieved by overlaying indicators for heavy snowfall and blizzards with population data. The objective is to comprehend the current likelihood of severe snowfall and blizzards and identify the specific regions in Europe that are most affected.
+The method involves visually representing the susceptible population exposed to intense snowfall and blizzards. This can be achieved by overlaying indicators for heavy snowfall and blizzards (e.g. based on ERA5) with population data. The objective is to comprehend the current likelihood of severe snowfall and blizzards and identify the specific regions in Europe that are most affected.
+
+
+## Hazard assessment
 
 ### Blizzard  
 
@@ -38,22 +41,23 @@ P =    ((variable > threshold) / days in year ) X 100
 
 
 
-We utilized ERA5 data for computing the intense snowfall and blizzard indices. For assessing population exposure, we relied on the JRC data portal, particularly the Global Human Settlement Layer (GHSL)
-
-Hazard assessment for Snow Blizzards: Only ERA5 data is used.
-
-Risk assessment for Snow Blizzards: ERA5 indices and population data are utilized.
+We utilized ERA5 data for computing the intense snowfall and blizzard indices. The Hazard map's annual probability is calculated using ERA5 datasets from 1991 to 2010.
 
 We downloaded the ERA5 single-level dataset using the CDS API from the Copernicus Climate Data Store.
 
 As there is no API available for downloading population data, we can utilize the Pooch library to download and unzip it.
 
-- ERA5 single level dataset: available from the  [Climate data store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview) 
+- ERA5 single-level dataset: available from the  [Climate data store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview)
+  
 
-- Population data: available from the  [JRC data portal](https://ghsl.jrc.ec.europa.eu/download.php?ds=pop)
+## Exposure assessment
+
+For assessing population exposure, we relied on the JRC data portal, particularly the Global Human Settlement Layer (GHSL)
+
+The population data are available from the  [JRC data portal](https://ghsl.jrc.ec.europa.eu/download.php?ds=pop)
 
 
-The Hazard map's annual probability is calculated using ERA5 datasets from 1991 to 2010
+
 
 
 
