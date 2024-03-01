@@ -11,27 +11,27 @@ The method involves visually representing the susceptible population exposed to 
 
 ### Blizzard  
 
-A blizzard is a severe storm condition defined by low temperature, sustained wind or frequent wind gust and considerable precipitating or blowing snow. For blizzard conditions we propose the use of following impact indicator:
+A blizzard is a severe storm condition defined by low temperature, sustained wind or frequent wind gusts, and considerable precipitating or blowing snow. For blizzard conditions, we propose the use of the following impact indicator:
 
 **Blizzard days** = Tmean  ≤ 0 °C, Rs (snow amount) ≥ 10 cm and Wg (wind gust) ≥ 17 m/s ( Vajda et al., 2014). 
 
-This impact indicator was defined taking into account the exposure of critical infrastructure, i.e., roads, rails, power lines, telecommunication to the hazard and is based on an extensive literature review, media reports, surveys conducted with European CI operators and case studies. 
+This impact indicator was defined taking into account the exposure of critical infrastructure, i.e., roads, rails, power lines, and telecommunication to the hazard, and is based on an extensive literature review, media reports, surveys conducted with European CI operators and case studies. 
 
 
 ### Heavy Snow 
 
-Heavy snowfall may cause many disruptions and impacts in various sectors; however, the impacts and consequences of this hazard depend on the affected sector, infrastructure and also preparedness of society that varies over Europe.  For example, already a few centimeters of snow can disrupt road traffic, but doesn’t normally cause any harm to energy infrastructure. Many weather services have three warning levels based on the severity of expected impacts, which are typically different for different sectors of infrastructure. There is a large variation in the national warning criteria or thresholds.
+Heavy snowfall may cause many disruptions and impacts in various sectors; however, the impacts and consequences of this hazard depend on the affected sector, infrastructure, and also preparedness of society which varies over Europe.  For example, already a few centimeters of snow can disrupt road traffic, but doesn’t normally cause any harm to energy infrastructure. Many weather services have three warning levels based on the severity of expected impacts, which are typically different for different sectors of infrastructure. There is a large variation in the national warning criteria or thresholds.
 
-Similarly to blizzard, the impact indicators for heavy snowfall were defined taking into account the exposure of critical infrastructure, i.e., roads, rails, power lines, telecommunication to the hazard and is based on an extensive literature review, media reports, surveys conducted with European CI operators and case studies. The qualitative description of the two-level thresholds are:
+Similarly to blizzards, the impact indicators for heavy snowfall were defined taking into account the exposure of critical infrastructure, i.e., roads, rails, power lines, and telecommunication to the hazard, and is based on an extensive literature review, media reports, surveys conducted with European CI operators and case studies. The qualitative description of the two-level thresholds are:
 
-**1st threshold ( > 6 cm):** Some adverse impacts are expected, their severity depends on the resilience of the system, transportation is mainly affected.
+**1st threshold ( > 6 cm):** Some adverse impacts are expected, their severity depends on the resilience of the system, and transportation is mainly affected.
 
-**2nd threshold ( > 25 cm):**  The weather phenomena are so severe that is likely that adverse impact will occur, CI system is seriously impacted.
+**2nd threshold ( > 25 cm):**  The weather phenomena are so severe that is likely that adverse impact will occur, CI system will be seriously impacted.
 
 This code calculates the Annual probability (%) of a blizzard and heavy snowfall days during the specified period and a region of interest.
 
 
-**The annual probability is calualted using following equation**
+**The annual probability is calculated using the following equation**
 
 P =    ((variable > threshold) / days in year ) X 100
 
