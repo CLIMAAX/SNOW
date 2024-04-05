@@ -12,6 +12,15 @@ dependencies:
         - matplotlib
         - tqdm
         - pip
+        - os
+        - cdsapi
+        - warnings
+        - pathlib
+        - pooch
+        - urllib
+        - xclim
+        - xesmf
+        - zipfile
         - jupyterlab
         - xlrd
         - pyproj
