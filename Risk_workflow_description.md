@@ -7,7 +7,7 @@ Useful links:
 
 ## Risk assessment methodology
 
-The method involves visually representing the susceptible population exposed to intense snowfall and blizzards. This can be achieved by overlaying indicators for heavy snowfall and blizzards (e.g. based on ERA5) with population data. The objective is to comprehend the current likelihood of severe snowfall and blizzards and identify the specific regions in Europe that are most affected.
+The method involves visually representing the susceptible population exposed to intense snowfall and blizzards. This can be achieved by overlaying indicators for heavy snowfall and blizzards (e.g. based on ERA5/CORDEX) with population data. The objective is to comprehend the current likelihood of severe snowfall and blizzards and identify the specific regions in Europe that are most affected.
 
 
 ## Hazard assessment
@@ -43,9 +43,9 @@ P = ((variable > threshold) / days in year ) X 100
 
 
 
-We utilized ERA5 data for computing the intense snowfall and blizzard indices. The Hazard map's annual probability is calculated using ERA5 datasets from 1991 to 2010.
+We utilized ERA5 and CORDEX data for computing the intense snowfall and blizzard indices. 
 
-We downloaded the ERA5 single-level dataset using the CDS API from the Copernicus Climate Data Store.
+We downloaded the ERA5 and CORDEX data  using the CDS API from the Copernicus Climate Data Store.
 
 As there is no API available for downloading population data, we can utilize the Pooch library to download and unzip it.
 
