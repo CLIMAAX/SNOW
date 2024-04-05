@@ -34,9 +34,11 @@ Similarly to blizzards, the impact indicators for heavy snowfall were defined ta
 This code calculates the Annual probability (%) of a blizzard and heavy snowfall days during the specified period and a region of interest.
 
 
-**The annual probability is calculated using the following equation**
+**The annual probability**
 
-P =    ((variable > threshold) / days in year ) X 100
+The annual probability is determined by dividing the count of events surpassing predefined thresholds within a year by the total number of days in that year. The result is then multiplied by 100 to express the probability as a percentage
+
+P = ((variable > threshold) / days in year ) X 100
 
 
 
