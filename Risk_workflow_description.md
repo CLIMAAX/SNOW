@@ -7,7 +7,7 @@ Useful links:
 
 ## Risk assessment methodology
 
-The method involves visually representing the susceptible population exposed to intense snowfall and blizzards. This can be achieved by overlaying indicators for heavy snowfall and blizzards (e.g. based on ERA5/CORDEX) with population data. The objective is to comprehend the current likelihood of severe snowfall and blizzards and identify the specific regions in Europe that are most affected.
+The method involves visually representing the susceptible population exposed to intense snowfall and blizzards. This can be achieved by overlaying indicators for heavy snowfall and blizzards (e.g. based on ERA5/CORDEX) with population data. The objective is to understand the present probability of severe snowfall and blizzards, pinpointing the regions most impacted within Europe. Additionally, we seek to investigate how climate change may modify this exposure over time.
 
 
 ## Hazard assessment
