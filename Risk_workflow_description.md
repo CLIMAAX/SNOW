@@ -48,7 +48,8 @@ We computed indices for intense snowfall and blizzards using the ERA5 and CORDEX
 As there is no API available for downloading population data, we can utilize the Pooch library to download and unzip it.
 
 - ERA5 single-level dataset: available from the  [Climate data store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview)
-  - CORDEX single-level dataset: available from the  [[Climate data store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview](https://cds.climate.copernicus.eu/cdsapp#!/dataset/projections-cordex-domains-single-levels?tab=overview))
+  
+- CORDEX single-level dataset: available from the  [[Climate data store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview](https://cds.climate.copernicus.eu/cdsapp#!/dataset/projections-cordex-domains-single-levels?tab=overview))
 
 ## Exposure assessment
 
