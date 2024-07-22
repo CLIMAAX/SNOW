@@ -12,6 +12,7 @@ dependencies:
     - jupyterlab=4.2.3
     - matplotlib=3.8.4
     - netcdf4=1.7.1
+    - notebook=7.2.1
     - numpy=1.26.4
     - pip
     - pooch=1.8.2
