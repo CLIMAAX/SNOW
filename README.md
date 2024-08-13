@@ -1,40 +1,56 @@
 # SNOW
-Repository for collaboration on workflows for Snow hazard
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/SNOW/main?labpath=SNOW_notebook.ipynb)
+Repository for collaboration on workflows for snow hazard.
 
-# How to run
+[<img src="https://raw.githubusercontent.com/CLIMAAX/crabook/main/crabook/logo.png" height="100" />](https://climaax.eu)
 
-## Running on Binder
-The notebook is designed to be launched from Binder. 
+Part of the [Climate Risk Assessment handbook](https://handbook.climaax.eu/notebooks/workflows/snow.html).
 
-Click the **Launch Binder** button at the top level of the repository
 
-## Running locally
-You may also download the notebook from GitHub to run it locally:
-1. Open your terminal
+## Workflows
 
-2. Check your conda install with `conda --version`. If you don't have conda, install it by following these instructions (see [here](https://docs.conda.io/en/latest/miniconda.html))
+- [Heavy snowfall & blizzard](01_Heavy_snowfall_and_blizzards/)
 
-3. Clone the repository
-    ```bash
-    git clone git@github.com:CLIMAAX/SNOW.git
-    ```
 
-4. Move into the cloned repository
-    ```bash
-    cd SNOW
-    ```
+## How to run
 
-5. Create and activate your environment from the `environment.yml` file
-    ```bash
-    conda env create -f environment.yml
-    conda activate climaax_snow
-    ```  
+See our [how to run risk workflows](https://handbook.climaax.eu/notebooks/workflows_how_to.html) page in the handbook for more information.
 
-6. Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
-7. Edit the notebook
-8. Commit and push to the repo. **This step will be changed soon, introducing Pull Requests**.
+### Launch a binder session
 
-# Credits
-The **How to run** section was adapted from the [Environmental Data Science Book](https://edsbook.org/welcome.html) project.
+Binder sessions are not persistent and may not provide the necessary computing resources to run all workflow steps.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/climaax/binder-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FCLIMAAX%252FSNOW%26urlpath%3Dlab%252Ftree%252FSNOW%252F%26branch%3Dmain)
+
+### Quickstart: local setup
+
+In a terminal where git and conda are available:
+
+1.  Clone the repository
+
+        git clone git@github.com:CLIMAAX/SNOW.git
+
+2.  Move into the cloned repository
+
+        cd SNOW
+
+3.  Create a new environment from the `environment.yml` file
+
+        conda env create -f environment.yml
+
+4.  Activate the environment
+
+        conda activate climaax_snow
+
+5.  Launch the Jupyter interface of your preference with
+
+        jupyter lab
+
+    or
+
+        jupyter notebook
+
+
+## How to contribute
+
+See our [contribute to risk recipes](https://handbook.climaax.eu/community/contribute.html) page in the handbook for more information.
