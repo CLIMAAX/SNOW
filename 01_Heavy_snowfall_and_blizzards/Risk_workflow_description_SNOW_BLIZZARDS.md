@@ -79,7 +79,7 @@ Annual probability (%) of blizzard during the period 1981-2010 based on ERA-Inte
 Multi-model mean change in annual probability of blizzards (in percentage points) by 2071-2100 under the RCP 8.5 scenario; white dots denote significant change at the 95% level of confidence. (Groenemeijer P. et al. 2016)
 
 
-<img width="560" alt="Screenshot 2024-09-17 at 14 15 46" src="https://github.com/user-attachments/assets/07462378-025f-4224-ab47-e6f965be3ea4">
+<img width="860" alt="Screenshot 2024-09-17 at 14 15 46" src="https://github.com/user-attachments/assets/07462378-025f-4224-ab47-e6f965be3ea4">
 
 
 
