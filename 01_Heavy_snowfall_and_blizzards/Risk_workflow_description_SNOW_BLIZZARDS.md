@@ -46,7 +46,7 @@ We computed the impact-based indices for heavy snowfall and blizzards using the 
 
 ### Limitations
 
-While ERA5 and EURO-CORDEX are valuable datas for assessing snow and blizzard events, limitations in spatial resolution, representation of extremes, and model uncertainties necessitate the use of local observations and additional high-resolution simulations for accurate snowstorm risk assessment. Applying bias correction techniques and using multi-model ensembles can help mitigate some of these uncertainties.
+While ERA5 and EURO-CORDEX are valuable datasets for assessing snow and blizzard events, limitations in spatial resolution, representation of extremes, and model uncertainties necessitate the use of local observations and additional high-resolution simulations for accurate snowstorm risk assessment. Applying bias correction techniques and using multi-model ensembles can help mitigate some of these uncertainties.
 
 ## Risk assessment methodology
 
@@ -70,7 +70,10 @@ In the next pages you will find:
 
 ## Outputs of the workflow
 
+
 Add example of output
+
+
 
 ## Authors
 
