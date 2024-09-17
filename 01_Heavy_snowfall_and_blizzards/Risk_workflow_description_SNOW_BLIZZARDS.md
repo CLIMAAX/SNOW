@@ -70,15 +70,16 @@ In the next pages you will find:
 
 ## Outputs of the workflow
 
-![Annual probability (%) of blizzard during the period 1981-2010 based on ERA-Interim data. (Groenemeijer P. et al. 2016)]
+Annual probability (%) of blizzard during the period 1981-2010 based on ERA-Interim data. (Groenemeijer P. et al. 2016)
 
 ![Picture 1](https://github.com/user-attachments/assets/901ca9a7-f9b4-4410-970f-0c0364eafb89)
 
 
 
-![Multi-model mean change in annual probability of blizzards (in percentage points) by 2071-2100 under the RCP 8.5 scenario; white dots denote significant change at the 95% level of confidence. (Groenemeijer P. et al. 2016)]
+Multi-model mean change in annual probability of blizzards (in percentage points) by 2071-2100 under the RCP 8.5 scenario; white dots denote significant change at the 95% level of confidence. (Groenemeijer P. et al. 2016)
 
-![Picture 2](https://github.com/user-attachments/assets/cc58be2d-9865-4e2e-b812-a3be940ac3ff)
+
+<img width="560" alt="Screenshot 2024-09-17 at 14 15 46" src="https://github.com/user-attachments/assets/07462378-025f-4224-ab47-e6f965be3ea4">
 
 
 
