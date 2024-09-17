@@ -72,6 +72,10 @@ In the next pages you will find:
 
 
 Add example of output
+![Annual probability (%) of blizzard during the period 1981-2010 based on ERA-Interim data. (Groenemeijer P. et al. 2016)](/Users/poladesu/Desktop/Picture 1.png)
+
+
+![Multi-model mean change in annual probability of blizzards (in percentage points) by 2071-2100 under the RCP 8.5 scenario; white dots denote significant change at the 95% level of confidence. (Groenemeijer P. et al. 2016)](/Users/poladesu/Desktop/Picture 2.png)
 
 
 
@@ -81,6 +85,7 @@ This workflow was developed by the Finnish Meteorological Institute.
 
 ## References
 Vajda et al. 2014
+Groenemeijer P., Vajda A., Lehtonen I., Kämäräinen M., Venäläinen A., Gregow H., Becker N., Nissen K., Ulbrich U., Morales Nápoles O., Paprotny D., Púčik T., 2016: Present and future probability of meteorological and hydrological hazards in Europe, EU RAIN Deliverable 2.5, http://rain-project.eu/wp-content/uploads/2016/09/D2.5_REPORT_final.pdf 
 
 
 
