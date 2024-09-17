@@ -36,11 +36,15 @@ The annual probability is determined by dividing the count of events surpassing 
 
     P = ((variable > threshold) / days in year ) X 100
 
+##  Datasets used
+
 We computed the impact-based indices for heavy snowfall and blizzards using the ERA5 and EURO-CORDEX datasets, which were acquired through the CDS API sourced from the Copernicus Climate Data Store.
 
 - ERA5 single-level dataset: available from the  [Climate data store](https://cds-beta.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview)
 
 - CORDEX single-level dataset: available from the  [Climate data store](https://cds-beta.climate.copernicus.eu/datasets/projections-cordex-domains-single-levels?tab=overview)
+
+### Limitations
 
 While ERA5 and EURO-CORDEX are valuable datas for assessing snow and blizzard events, limitations in spatial resolution, representation of extremes, and model uncertainties necessitate the use of local observations and additional high-resolution simulations for accurate snowstorm risk assessment. Applying bias correction techniques and using multi-model ensembles can help mitigate some of these uncertainties.
 
