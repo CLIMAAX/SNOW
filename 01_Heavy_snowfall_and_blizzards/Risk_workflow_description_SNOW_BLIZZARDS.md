@@ -72,10 +72,10 @@ In the next pages you will find:
 The examples of probability maps produced in the EU-RAIN project are shown below.
 These figures show the probabilities of blizzards for past climates, computed from ERA-Interim reanalysis with a horizontal resolution of 0.7°. Changes in annual blizzard probabilities for future climates were computed from a set of six RCMs at a 50 km spatial resolution, produced in EURO-CORDEX for the RCP 8.5 emission scenarios.
 
-![Annual probability (%) of blizzard during the period 1981-2010 based on ERA-Interim data. (Groenemeijer P. et al. 2016)](/Users/poladesu/Desktop/Picture 1.png)
+![Annual probability (%) of blizzard during the period 1981-2010 based on ERA-Interim data. (Groenemeijer P. et al. 2016)](/images/Picture 1.png)
 
 
-![Multi-model mean change in annual probability of blizzards (in percentage points) by 2071-2100 under the RCP 8.5 scenario; white dots denote significant change at the 95% level of confidence. (Groenemeijer P. et al. 2016)](/Users/poladesu/Desktop/Picture 2.png)
+![Multi-model mean change in annual probability of blizzards (in percentage points) by 2071-2100 under the RCP 8.5 scenario; white dots denote significant change at the 95% level of confidence. (Groenemeijer P. et al. 2016)](/images/Picture 2.png)
 
 
 
@@ -85,6 +85,9 @@ This workflow was developed by the Finnish Meteorological Institute.
 
 ## References
 Groenemeijer P., Vajda A., Lehtonen I., Kämäräinen M., Venäläinen A., Gregow H., Becker N., Nissen K., Ulbrich U., Morales Nápoles O., Paprotny D., Púčik T., 2016: Present and future probability of meteorological and hydrological hazards in Europe, EU RAIN Deliverable 2.5, http://rain-project.eu/wp-content/uploads/2016/09/D2.5_REPORT_final.pdf 
+
+Vajda A., H. Tuomenvirta, I. Juga, P. Nurmi, P. Jokinen, J. Rauhala, 2014: Severe weather affecting European transport systems: the identification, classification and frequencies of events
+Nat. Hazards, 72 (2014), pp. 169-188, 10.1007/s11069-013-0895-4
 
 
 
