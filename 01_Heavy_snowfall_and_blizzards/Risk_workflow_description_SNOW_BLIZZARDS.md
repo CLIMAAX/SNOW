@@ -70,7 +70,7 @@ In the next pages you will find:
 
 ## Outputs of the workflow
 The examples of probability maps produced in the EU-RAIN project are shown below.
-These figures show the probabilities of blizzards for past climates, computed from ERA-Interim reanalysis with a horizontal resolution of 0.7°. Changes in annual blizzard probabilities for future climates were computed from a set of six RCMs at a 50 km spatial resolution, produced in EURO-CORDEX for the RCP 4.5 and RCP 8.5 emission scenarios.
+These figures show the probabilities of blizzards for past climates, computed from ERA-Interim reanalysis with a horizontal resolution of 0.7°. Changes in annual blizzard probabilities for future climates were computed from a set of six RCMs at a 50 km spatial resolution, produced in EURO-CORDEX for the RCP 8.5 emission scenarios.
 
 ![Annual probability (%) of blizzard during the period 1981-2010 based on ERA-Interim data. (Groenemeijer P. et al. 2016)](/Users/poladesu/Desktop/Picture 1.png)
 
