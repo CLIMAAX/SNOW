@@ -36,11 +36,17 @@ The annual probability is determined by dividing the count of events surpassing 
 
     P = ((variable > threshold) / days in year ) X 100
 
+##  Datasets used
+
 We computed the impact-based indices for heavy snowfall and blizzards using the ERA5 and EURO-CORDEX datasets, which were acquired through the CDS API sourced from the Copernicus Climate Data Store.
 
 - ERA5 single-level dataset: available from the  [Climate data store](https://cds-beta.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview)
 
 - CORDEX single-level dataset: available from the  [Climate data store](https://cds-beta.climate.copernicus.eu/datasets/projections-cordex-domains-single-levels?tab=overview)
+
+### Limitations
+
+While ERA5 and EURO-CORDEX are valuable datasets for assessing snow and blizzard events, limitations in spatial resolution, representation of extremes, and model uncertainties necessitate the use of local observations and additional high-resolution simulations for accurate snowstorm risk assessment. Applying bias correction techniques and using multi-model ensembles can help mitigate some of these uncertainties.
 
 ## Risk assessment methodology
 
@@ -63,15 +69,22 @@ In the next pages you will find:
 2. Risk assessment using hazard impact indicators and population exposure data ([link to notebook on GitHub](https://github.com/CLIMAAX/SNOW/blob/main/01_Heavy_snowfall_and_blizzards/Risk_assessment_SNOW_BLIZZARDS.ipynb))
 
 ## Outputs of the workflow
+The examples of probability maps produced in the EU-RAIN project are shown below.
+These figures show the probabilities of blizzards for past climates, computed from ERA-Interim reanalysis with a horizontal resolution of 0.7°. Changes in annual blizzard probabilities for future climates were computed from a set of six RCMs at a 50 km spatial resolution, produced in EURO-CORDEX for the RCP 8.5 emission scenarios.
 
-Add example of output
+![Annual probability (%) of blizzard during the period 1981-2010 based on ERA-Interim data. (Groenemeijer P. et al. 2016)](/Users/poladesu/Desktop/Picture 1.png)
+
+
+![Multi-model mean change in annual probability of blizzards (in percentage points) by 2071-2100 under the RCP 8.5 scenario; white dots denote significant change at the 95% level of confidence. (Groenemeijer P. et al. 2016)](/Users/poladesu/Desktop/Picture 2.png)
+
+
 
 ## Authors
 
 This workflow was developed by the Finnish Meteorological Institute.
 
 ## References
-Vajda et al. 2014
+Groenemeijer P., Vajda A., Lehtonen I., Kämäräinen M., Venäläinen A., Gregow H., Becker N., Nissen K., Ulbrich U., Morales Nápoles O., Paprotny D., Púčik T., 2016: Present and future probability of meteorological and hydrological hazards in Europe, EU RAIN Deliverable 2.5, http://rain-project.eu/wp-content/uploads/2016/09/D2.5_REPORT_final.pdf 
 
 
 
