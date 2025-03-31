@@ -4,12 +4,15 @@ channels:
     - conda-forge
 
 dependencies:
+    - branca=0.8.1
     - cartopy=0.23.0
     - cdsapi=0.7.5
     - dask=2024.7.0
+    - folium=0.19.4
     - ipykernel=6.29.5
     - jupyterlab-myst=2.4.2
     - jupyterlab=4.2.3
+    - localtileserver=0.10.3
     - matplotlib=3.8.4
     - netcdf4=1.7.1
     - notebook=7.2.1
@@ -18,6 +21,7 @@ dependencies:
     - pooch=1.8.2
     - pyproj=3.6.1
     - python=3.11
+    - rio-tiler=6.7.0
     - rioxarray=0.15.7
     - xarray=2024.6.0
     - xesmf=0.8.6
