@@ -26,4 +26,3 @@ dependencies:
     - rioxarray=0.15.7
     - werkzeug=3.1.3
     - xarray=2024.6.0
-    - xesmf=0.8.6
