@@ -51,6 +51,11 @@ In this workflow, risk is determined as a combination of the probability of occu
 
 The method for assessing risk involves visually representing the susceptible population exposed to intense snowfall and blizzards. This can be achieved by overlaying the impact-based indicators for heavy snowfall and blizzards with population data. 
 
+:::{figure} images/risk-snowfall-days-map.jpg
+
+Snapshot of an interactive map produced by the risk assessment showing annual probability of snowfall days (hazard; colors) overlaid onto population density (exposure; monochrome).
+:::
+
 ### Exposure - population density
 
 For assessing population exposure, we relied on the JRC data portal, particularly the [Global Human Settlement Layer (GHSL)](https://ghsl.jrc.ec.europa.eu/download.php?ds=pop).
@@ -78,7 +83,6 @@ Annual probability (%) of blizzard during the period 1981-2010 based on ERA-Inte
 
 Multi-model mean change in annual probability of blizzards (in percentage points) by 2071-2100 under the RCP 8.5 scenario; white dots denote significant change at the 95% level of confidence. (Groenemeijer P. et al. 2016)
 :::
-
 
 ## Authors
 
